@@ -1,2 +1,5 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-
+<html>
+  <body bgcolor='orange'>
+    <h1>This is a test website</h1>
+  </body>
+</html>
